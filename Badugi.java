@@ -1,12 +1,7 @@
 import java.util.*;
 import java.util.Random;
 
-/**
- * Write a description of class Badugi500310841 here.
- * 
- * @author Jaculine Medley 
- * 
- */
+
 
 public class Badugi500310841 implements BadugiPlayer
 {
